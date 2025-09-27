@@ -5,7 +5,7 @@ a = Analysis(
     ['ficha_rpg.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('icons', 'icons')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
