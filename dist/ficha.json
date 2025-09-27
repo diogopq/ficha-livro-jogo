@@ -1,0 +1,9 @@
+{
+    "nome": "Aventureiro",
+    "habilidade": 10,
+    "energia": 20,
+    "sorte": 10,
+    "ouro": 0,
+    "inventario": [],
+    "anotacoes": ""
+}
